@@ -87,6 +87,7 @@
 
 /* ====== MEDIA QUERIES ====== */
 @media screen and (max-width: 800px) {
+	/* NAVBAR */
 	#navbar {
 		position: initial;
 		width: 100%;
@@ -101,5 +102,10 @@
 
 	.navbar-link {
 		font-size: 15px;
+	}
+ 
+	/* MAIN CONTENT */
+	#main-doc {
+		position: initial;
 	}
 }
