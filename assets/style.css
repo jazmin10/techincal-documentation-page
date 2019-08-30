@@ -1,0 +1,20 @@
+/* ====== GENERAL STYLING ====== */
+* {
+	margin: 0;
+}
+
+#wrapper {
+	position: relative;
+}
+
+#navbar {
+	/*background: blue;*/
+	position: fixed;
+	height: 100%;
+	width: 300px;
+}
+
+#main-doc {
+	position: absolute;
+	left: 300px;
+}
