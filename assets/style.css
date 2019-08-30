@@ -48,4 +48,9 @@
 #main-doc {
 	position: absolute;
 	left: 300px;
+	margin: 30px;
+}
+
+.main-section {
+	margin-bottom: 25px;
 }
