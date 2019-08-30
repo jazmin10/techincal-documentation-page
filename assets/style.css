@@ -15,6 +15,7 @@
 	position: fixed;
 	height: 100%;
 	width: 300px;
+	/*border: 3px solid #a7a3a3;*/
 }
 
 #navbar header {
@@ -25,6 +26,14 @@
 /* NAVBAR LINKS */
 #navbar ul {
 	list-style-type: none;
+}
+
+#navbar ul li {
+	padding: 10px 0px;
+}
+
+.navbar-link {
+	text-decoration: none;
 }
 
 
