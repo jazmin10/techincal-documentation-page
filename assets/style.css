@@ -70,7 +70,9 @@
 }
 
 /* ====== WHAT YOU SHOULD ALREADY KNOW ====== */
-
+#what_you_should_already_know article ul li {
+	margin: 15px 0px;
+}
 
 
 
