@@ -8,11 +8,23 @@
 }
 
 /* ====== NAVBAR ====== */
+
+/* NAVBAR TITLE */
 #navbar {
 	/*background: blue;*/
 	position: fixed;
 	height: 100%;
 	width: 300px;
+}
+
+#navbar header {
+	margin: 20px;
+	text-align: center;
+}
+
+/* NAVBAR LINKS */
+#navbar ul {
+	list-style-type: none;
 }
 
 
