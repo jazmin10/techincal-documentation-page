@@ -7,6 +7,7 @@
 	position: relative;
 }
 
+/* ====== NAVBAR ====== */
 #navbar {
 	/*background: blue;*/
 	position: fixed;
@@ -14,6 +15,8 @@
 	width: 300px;
 }
 
+
+/* ====== MAIN CONTENT WRAPPER ====== */
 #main-doc {
 	position: absolute;
 	left: 300px;
