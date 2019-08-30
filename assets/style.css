@@ -88,5 +88,24 @@
 	line-height: 2;
 }
 
+/* ====== DECLARING VARIABLES ====== */
+#declaring_variables article code {
+	display: block;
+	background: #edecec;
+	margin: 10px 5px;
+	padding: 15px;
+}
+
+/* ====== VARIABLE SCOPE ====== */
+#variable_scope article code {
+	display: block;
+	background: #edecec;
+	margin: 10px 5px;
+	padding: 15px;
+}
+
+#variable_scope article p {
+	margin-bottom: 20px;
+}
 
 
