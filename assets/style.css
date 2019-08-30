@@ -34,7 +34,7 @@
 	border-top: 2px solid #817e7e;
 }
 
-.navbar-link {
+.nav-link {
 	text-decoration: none;
 	display: block;
 	padding: 10px 0px 10px 30px;
@@ -42,7 +42,7 @@
 	font-size: 18px;
 }
 
-.navbar-link:visited {
+.nav-link:visited {
 	color: #5f5454;
 }
 
