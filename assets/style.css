@@ -79,6 +79,14 @@
 	margin: 15px 0px;
 }
 
+/* ====== HELLO WORLD ====== */
+#hello_world article code {
+	display: block;
+	background: #edecec;
+	margin: 10px 5px;
+	padding: 15px;
+	line-height: 2;
+}
 
 
 
