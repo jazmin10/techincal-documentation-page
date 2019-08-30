@@ -51,6 +51,27 @@
 	margin: 30px;
 }
 
+/* ====== MAIN CONTENT SECTIONS ====== */
 .main-section {
 	margin-bottom: 25px;
 }
+
+.main-section header {
+	margin-bottom: 10px;
+}
+
+.main-section article {
+	line-height: 1.5;
+	margin-left: 25px;
+}
+
+.main-section p {
+	margin: 5px 0px;
+}
+
+/* ====== WHAT YOU SHOULD ALREADY KNOW ====== */
+
+
+
+
+
