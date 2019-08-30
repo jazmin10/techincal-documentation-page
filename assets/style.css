@@ -69,16 +69,11 @@
 	margin-bottom: 20px;
 }
 
-/* ====== WHAT YOU SHOULD ALREADY KNOW ====== */
-#what_you_should_already_know article ul li {
+/* ====== LIST ITEMS ====== */
+
+.list-item {
 	margin: 15px 0px;
 }
-
-/* ====== DATA TYPES ====== */
-#data_types article ul li {
-	margin: 15px 0px;
-}
-
 /* ====== CODE TAG ====== */
 .code {
 	display: block;
