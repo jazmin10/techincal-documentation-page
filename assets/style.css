@@ -37,8 +37,12 @@
 	text-decoration: none;
 	display: block;
 	padding: 10px 0px 10px 30px;
+	color: #5f5454;
 }
 
+.navbar-link:visited {
+	color: #5f5454;
+}
 
 /* ====== MAIN CONTENT WRAPPER ====== */
 #main-doc {
