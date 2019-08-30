@@ -5,6 +5,7 @@
 
 #wrapper {
 	position: relative;
+	font-family: "Open Sans", Arial, sans-serif;
 }
 
 /* ====== NAVBAR ====== */
@@ -38,6 +39,7 @@
 	display: block;
 	padding: 10px 0px 10px 30px;
 	color: #5f5454;
+	font-size: 18px;
 }
 
 .navbar-link:visited {
@@ -70,10 +72,10 @@
 }
 
 /* ====== LIST ITEMS ====== */
-
 .list-item {
 	margin: 15px 0px;
 }
+
 /* ====== CODE TAG ====== */
 .code {
 	display: block;
@@ -83,4 +85,21 @@
 	line-height: 2;
 }
 
+/* ====== MEDIA QUERIES ====== */
+@media screen and (max-width: 800px) {
+	#navbar {
+		position: initial;
+		width: 100%;
+		height: auto;
+	}
 
+	#navbar-list {
+		border: 3px solid #817e7e;
+		height: 150px;
+		overflow: scroll;
+	}
+
+	.navbar-link {
+		font-size: 15px;
+	}
+}
